@@ -1,1 +1,1 @@
-# GEOG5990M_Project
+You should also create a GitHub repository with suitable documentation. This should include an introductory markdown (readme) file explaining, the background/context of the project, information on the data within the GitHub repository, what the code aims to do, and any further information someone might need to be able to run your code and reproduce your analysis. The GitHub repository should also contain all files needed to run the analysis and your .ipynb notebook.
